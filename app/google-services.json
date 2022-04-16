@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35593511694",
+    "project_id": "sendandreceive-66091",
+    "storage_bucket": "sendandreceive-66091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35593511694:android:90239ee2fce65019d46d5f",
+        "android_client_info": {
+          "package_name": "com.example.sendandreceive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35593511694-9vm1d3h551b9621t6m9clf9k4ai4iqti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1BUz1jBnavXDN_vOzkXfw1sVpw3OwYF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35593511694-9vm1d3h551b9621t6m9clf9k4ai4iqti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
